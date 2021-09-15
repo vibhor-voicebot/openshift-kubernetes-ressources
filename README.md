@@ -1,6 +1,6 @@
 # Deploy simple app on OpenShift
 
-This repo contains all Kubernetes resources necessary to deploy a Docker image from Docker Hub to OpenShift.
+This repo contains all Kubernetes resources necessary to deploy a Docker image from Docker Hub or private Hub like MSHub/Artofcatory Repo to OpenShift.
 
 Docker image: https://hub.docker.com/r/pmgysel/spring-boot-app
 
