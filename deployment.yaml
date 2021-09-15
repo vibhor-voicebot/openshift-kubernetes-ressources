@@ -17,3 +17,4 @@ spec:
         image: pmgysel/spring-boot-app:0.0.1
         ports:
         - containerPort: 8080
+        
